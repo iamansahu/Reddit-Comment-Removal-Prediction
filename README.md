@@ -41,3 +41,8 @@ Developed an ML-powered content moderation system to predict whether a Reddit co
 - **Programming Language:** Python
 - **Libraries:** Scikit-learn, XGBoost, TensorFlow, Spacy, TF-IDF, NLP, GridSearchCV, Gradio
 - **Tools:** Google Colab, Joblib
+
+## Large Dataset Download  
+The dataset is too large for GitHub. You can download it from the link below:  
+
+🔗 [Download the dataset](https://drive.google.com/drive/folders/1_Ca1nzzuupRkUbfEb1y5el6RpMvxlZiv?usp=share_link)  
